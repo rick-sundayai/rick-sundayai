@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rick-sundayai
-- 👀 I’m interested in all this technical.
+- 👀 I’m interested in all things technical.
 - 🌱 I’m currently learning to build and deploy AI and Automation Solutions
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
